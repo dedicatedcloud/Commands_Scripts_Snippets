@@ -1,5 +1,5 @@
 # Commands
-Common Commands
+## How To Use Expanding Sections
 <details>
   <summary>Expand Tricks</summary>
   # How to add a collapsible section in markdown
@@ -114,6 +114,10 @@ NB: When including headings within collapsible sections, remember to add a new l
 
   
 </details>
+
+### Commands for various tasks
+
+
 
 <details>
   <summary>Install LAMP on Apache Commands</summary>
