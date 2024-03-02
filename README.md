@@ -2,7 +2,8 @@
 Common Commands
 <details>
   <summary>Install LAMP on Apache Commands</summary>
-``` 
+
+  ``` 
 sudo apt update && sudo apt -y upgrade
 ``` 
 ``` 
@@ -86,5 +87,4 @@ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password
 ``` 
 GRANT ALL ON example_database.* TO 'example_user'@'%';
 ``` 
-
 </details>
