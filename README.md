@@ -51,7 +51,6 @@ sudo nano /etc/apache2/sites-available/your_domain.conf
 ```
 sudo a2ensite your_domain
 ```
-
 ```
 sudo a2dissite 000-default
 ``` 
@@ -64,6 +63,7 @@ sudo systemctl reload apache2
 ``` 
 nano /var/www/your_domain/index.html
 ``` 
+```
 <html>
    <head>
      <title>your_domain website</title>
