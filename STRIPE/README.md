@@ -1,3 +1,6 @@
+<details>
+  <summary>Click me</summary>
+
 ``` 
 stripe trigger account.application.authorized
 ``` 
@@ -597,3 +600,4 @@ stripe trigger transfer.created
 ``` 
 stripe trigger transfer.reversed
 ```
+</details>
