@@ -124,7 +124,6 @@ NB: When including headings within collapsible sections, remember to add a new l
 sudo apt-get install -y php8.3-simplexml
 sudo apt-get install -y php8.3-dom
 sudo apt-get install -y php8.3-mbstring
-sudo apt-get install -y php8.3-mbstring
 sudo apt-get install -y php8.3-mb
 sudo apt-get install -y php8.3-curl
 sudo apt-get install -y php8.3-gd
@@ -133,13 +132,11 @@ sudo apt-get install -y php8.3-bcmath
 sudo apt-get install -y php8.3-pdo_sqlite
 sudo apt-get install -y php8.3-intl
 sudo apt-get install -y php8.3-libxml 
-sudo apt-get install -y php8.3-mbstring 
 sudo apt-get install -y php8.3-mysqli 
 sudo apt-get install -y php8.3-mysqlnd 
 sudo apt-get install -y php8.3-openssl 
 sudo apt-get install -y php8.3-PDO 
 sudo apt-get install -y php8.3-pdo_mysql 
-sudo apt-get install -y php8.3-pdo_sqlite
 sudo apt-get install -y php8.3-sqlite
 ```
 </details>
