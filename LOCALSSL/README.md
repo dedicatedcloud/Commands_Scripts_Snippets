@@ -29,7 +29,7 @@ EOF
 ```
 
 ```
-cat > touch v3.ext <<- EOF
+cat > v3.ext <<- EOF
 authorityKeyIdentifier=keyid,issuer
 basicConstraints=CA:FALSE
 keyUsage = digitalSignature, nonRepudiation, keyEncipherment, dataEncipherment
