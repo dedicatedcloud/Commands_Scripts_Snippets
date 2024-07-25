@@ -25,8 +25,8 @@ NB: When including headings within collapsible sections, remember to add a new l
   Done!
 </details>
 </details>
-
-<details><summary>List of UK Counties in Capital Case eg: $\textsf{{\color{red}a}{\color{black}von~ }}$</summary>
+<br>
+<details><summary>List of UK Counties in Lower Case eg: $\textsf{{\color{red}a}{\color{black}von~ }}$</summary>
   <br>
 <details> 
 <summary>England</summary>
@@ -44,5 +44,25 @@ NB: When including headings within collapsible sections, remember to add a new l
 <summary>Section A.B.C.D</summary>
   Done!
 </details>
-  
+</details>
+
+<br>
+<details><summary>List of UK Counties in Lower Case eg: $\textsf{{\color{red}a}{\color{black}von~ }}$</summary>
+  <br>
+<details> 
+<summary>England</summary>
+  </details>
+<details>
+<summary>Northen Ireland</summary>
+</details>
+  <details>
+<summary>Scotland</summary>
+</details>
+<details>
+<summary>Wales</summary>
+</details>
+<details>
+<summary>Section A.B.C.D</summary>
+  Done!
+</details>
 </details>
